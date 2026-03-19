@@ -1,9 +1,9 @@
 <p align="center">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=wehyn&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=issues,contribs&bg_color=00000000" />
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=wehyn&show_icons=true&count_private=true&theme=github_dark&hide_border=true&hide=issues,contribs&bg_color=00000000" />
   
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wehyn&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=00000000&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI" />
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wehyn&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=00000000&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI" />
   
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=wehyn&theme=tokyonight&hide_border=true&background=00000000" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=wehyn&theme=github-dark&hide_border=true&background=00000000" />
   
   <br><br>
 </p>
