@@ -1,3 +1,9 @@
+<p align="center">
+  <img width="60%" src="https://streak-stats.demolab.com?user=wehyn&theme=github-dark&hide_border=true&background=00000000" />
+
+  <br><br>
+</p>
+
 ## Wayne Garcia
 Full Stack Developer · Builder · Hackathon Enthusiast
 
