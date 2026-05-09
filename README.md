@@ -2,8 +2,7 @@
   <img width="60%" src="https://streak-stats.demolab.com?user=wehyn&theme=github-dark&hide_border=true&background=00000000" />
 </p>
 
-<p align="center">
-
+<div align="center">
 
 Full Stack Developer · Builder · Hackathon Enthusiast
 
@@ -21,4 +20,4 @@ Building products and shipping to hackathons.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wayne-garcia/)
 [![GitHub](https://img.shields.io/badge/GitHub-24292E?style=flat-square&logo=github&logoColor=white)](https://github.com/wehyn)
 
-</p>
+</div>
