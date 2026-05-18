@@ -4,7 +4,7 @@
 
 <div align="center">
 
-Full Stack Developer · Builder · Hackathon Enthusiast
+Software Developer
 
 Building products and shipping to hackathons.
 
