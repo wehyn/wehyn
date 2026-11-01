@@ -2,6 +2,8 @@
 
 I build useful software across native macOS, local-first systems, and public-interest technology.
 
+<img src="assets/prs-per-month.svg" alt="Pull requests per month" width="640">
+
 ## Selected work
 
 - [Porto](https://github.com/wehyn/porto) — a macOS menu-bar utility for inspecting network listeners and active connections.
