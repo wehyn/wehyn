@@ -2,7 +2,9 @@
 
 I build useful software across native macOS, local-first systems, and public-interest technology.
 
-<img src="assets/prs-per-month.svg" alt="Pull requests per month" width="640">
+<p align="center">
+  <img src="assets/prs-per-month.svg" alt="Pull requests per month" width="640">
+</p>
 
 ## Selected work
 
