@@ -53,7 +53,7 @@ def nice_max(peak):
 
 
 def render(counts, months, total, merged):
-    W, H, L, R, T, B = 640, 220, 8, 40, 64, 26
+    W, H, L, R, T, B = 640, 204, 8, 40, 48, 26
     pw, ph = W - L - R, H - T - B
     top = nice_max(max(counts))
     bw = pw / len(months)
@@ -70,7 +70,6 @@ def render(counts, months, total, merged):
         ".n{fill:#8b949e;font-size:14px}.t{fill:#2f81f7;font-size:30px;font-weight:600}</style>",
         f'<text class="t" x="{L}" y="34">{total}</text>',
         f'<text class="n" x="{L + 14 + 18 * len(str(total))}" y="34">total pull requests · {merged} merged</text>',
-        f'<text x="{L}" y="52">Pull requests per month · {months[0][0]}–{months[-1][0]}</text>',
     ]
     for v in ticks:
         dash = ' stroke-dasharray="3 3"' if v else ""
