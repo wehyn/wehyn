@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 204" width="640" height="204" role="img" aria-label="Pull requests per month: 427 total, 420 merged">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 204" width="640" height="204" role="img" aria-label="Pull requests per month: 427 total, 421 merged">
 <style>text{fill:#8b949e;font:11px -apple-system,Segoe UI,Helvetica,Arial,sans-serif}.g{stroke:#8b949e;stroke-opacity:.3}.n{fill:#8b949e;font-size:14px}.t{fill:#2f81f7;font-size:30px;font-weight:600}</style>
 <text class="t" x="8" y="34">427</text>
-<text class="n" x="76" y="34">total pull requests · 420 merged</text>
+<text class="n" x="76" y="34">total pull requests · 421 merged</text>
 <line class="g" x1="8" x2="600" y1="178.0" y2="178.0"/>
 <text x="606" y="182.0">0</text>
 <line class="g" x1="8" x2="600" y1="113.0" y2="113.0" stroke-dasharray="3 3"/>
