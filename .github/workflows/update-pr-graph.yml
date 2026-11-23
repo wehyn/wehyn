@@ -8,11 +8,18 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: update-pr-graph
+  cancel-in-progress: false
+
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          # Always start from the latest main, even on re-runs of older runs.
+          ref: main
       - name: Generate graph
         env:
           GH_TOKEN: ${{ secrets.PR_GRAPH_TOKEN }}
